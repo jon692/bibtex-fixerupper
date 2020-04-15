@@ -1,0 +1,266 @@
+Log of changes to test.txt on 04/15/2020 15:38:35
+
+
+There were 44 total non-ascii characters and 0 that were not defined in the dictionary.
+Special characters identified included:
+	- ﻿ to               	(in LeeSnaith2012MesoSuperstructured of LeeSnaith2012MesoSuperstructured)
+	- á to {\'a}         	(in author of SchmidtPerezPrieto2014Nontemplate)
+	- á to {\'a}         	(in author of SchmidtPerezPrieto2014Nontemplate)
+	- í to {\'i}         	(in author of SchmidtPerezPrieto2014Nontemplate)
+	- é to {\'e}         	(in author of SchmidtPerezPrieto2014Nontemplate)
+	- ’ to '             	(in author of AshleyMirkin2016TemplatedNWArray)
+	- – to -             	(in title of ParkSong2016LightMatter)
+	- ‐ to -             	(in title of WagnerEllis1964VLS)
+	- ‐ to -             	(in title of WagnerEllis1964VLS)
+	- ö to {\"o}         	(in author of SchmidtGosele2010Growth)
+	- ö to {\"o}         	(in ThelanderSamuelson20061Delectronics of ThelanderSamuelson20061Delectronics)
+	- – to -             	(in title of NicholsNing2015CdPbS)
+	- – to -             	(in abstract of GomesSorba2016InAs)
+	- – to -             	(in abstract of GomesSorba2016InAs)
+	- − to -             	(in title of MandlMikkelsen2010SelfCatalyzedIIIV)
+	- – to -             	(in title of Tersoff2015SelfCatalyzedIIIV)
+	- å to {\aa}         	(in author of HaugeBakkers2015HexagonalSi)
+	- ö to {\"o}         	(in author of HaugeBakkers2015HexagonalSi)
+	- ° to \textdegree{} 	(in abstract of Fornaro2001LeadIodide)
+	- μ to \textmu{}     	(in abstract of Fornaro2001LeadIodide)
+	- ° to \textdegree{} 	(in abstract of Fornaro2001LeadIodide)
+	- – to -             	(in abstract of Fornaro2001LeadIodide)
+	- – to -             	(in title of Wu2016RecombiantionKinetics)
+	- – to -             	(in keywords of Wu2016RecombiantionKinetics)
+	- – to -             	(in abstract of Wu2016RecombiantionKinetics)
+	- ≈ to $\approx$     	(in abstract of Wu2016RecombiantionKinetics)
+	- ≈ to $\approx$     	(in abstract of Wu2016RecombiantionKinetics)
+	- × to $\times$      	(in abstract of Wu2016RecombiantionKinetics)
+	- − to -             	(in abstract of Wu2016RecombiantionKinetics)
+	- × to $\times$      	(in abstract of Wu2016RecombiantionKinetics)
+	- − to -             	(in abstract of Wu2016RecombiantionKinetics)
+	- × to $\times$      	(in abstract of Wu2016RecombiantionKinetics)
+	- − to -             	(in abstract of Wu2016RecombiantionKinetics)
+	- ≈ to $\approx$     	(in abstract of Wu2016RecombiantionKinetics)
+	- – to -             	(in abstract of Wu2016RecombiantionKinetics)
+	- ≈ to $\approx$     	(in abstract of Wu2016RecombiantionKinetics)
+	- – to -             	(in abstract of Wu2016RecombiantionKinetics)
+	- μ to \textmu{}     	(in abstract of Wu2016RecombiantionKinetics)
+	- ’ to '             	(in author of D'Innocenzo2014BandGapEngineering)
+	- – to -             	(in title of MehlPapanikolas2013ZnORods)
+	- μ to \textmu{}     	(in abstract of Kempa2012CoaxialNWs)
+	- é to {\'e}         	(in author of Ahuja2002PbI2)
+	- é to {\'e}         	(in author of Leguy2015ReversibleHydration)
+	- – to -             	(in title of ZhangCahoon2013HorizontalNWs)
+
+
+
+There were 1 fields that had more than one equal sign. As this is a possible source of error in the code, please review:
+	- in ChenJin2017EpitaxialCsPbX3:
+		title = {Vapor-Phase Epitaxial Growth of Aligned Nanowire Networks of Cesium Lead Halide Perovskites (CsPbX3, X = Cl, Br, I)},
+
+
+
+
+There were 11 "abstract" fields deleted from the records:
+	- LeeSnaith2012MesoSuperstructured
+	- ZhuoZhang2015PorousNWs
+	- ThelanderSamuelson20061Delectronics
+	- AfzaalOBrien2012PbSeNWs
+	- GomesSorba2016InAs
+	- sharma2004DiameterControl
+	- Wang2006EpitaxialGrowth
+	- Perea2009DopantDistribution
+	- Fornaro2001LeadIodide
+	- Wu2016RecombiantionKinetics
+	- DuanLieber2003NWLasers
+
+
+
+There were 23 "note" fields commented from the records:
+	- removednote = {PMID: 26043362}	(from XingXiong2015NanoLettVaporPhaseNWs)
+	- removednote = {PMID: 27594046}	(from ParkSong2016LightMatter)
+	- removednote = {PMID: 28002671}	(from ChenJin2017EpitaxialCsPbX3)
+	- removednote = {PMID: 27960450}	(from WangShi2016Incommensurate)
+	- removednote = {PMID: 26797488}	(from ZhuZhu2016FilmToNWs)
+	- removednote = {PMID: 20070117}	(from SchmidtGosele2010Growth)
+	- removednote = {PMID: 17672508}	(from BiermanJin2007Hyperbranched)
+	- removednote = {PMID: 25594578}	(from NicholsNing2015CdPbS)
+	- removednote = {PMID: 21981350}	(from NicholsNing2011PbSGrowth)
+	- removednote = {PMID: 20939507}	(from MandlMikkelsen2010SelfCatalyzedIIIV)
+	- removednote = {PMID: 26217912}	(from PrianteHarmand2015SelfCatalyzedGaPAs)
+	- removednote = {PMID: 26389697}	(from Tersoff2015SelfCatalyzedIIIV)
+	- removednote = {PMID: 26230363}	(from HaugeBakkers2015HexagonalSi)
+	- removednote = {PMID: 21158417}	(from Krylyuk2011TaperingControl)
+	- removednote = {PMID: 26999355}	(from Kelrich2016Nanoflag)
+	- removednote = {Proc. 11th Inbt. Workshop on Room Temperature Semiconductor X- and Gamma-Ray Detectors and Associated Electronics}	(from Fornaro2001LeadIodide)
+	- removednote = {PMID: 26192740}	(from Wong2015AnionExchange)
+	- removednote = {PMID: 25469762}	(from D'Innocenzo2014BandGapEngineering)
+	- removednote = {PMID: 23092237}	(from MehlPapanikolas2013ZnORods)
+	- removednote = {PMID: 20078065}	(from CaoBrongersma2010OpticalAntenna)
+	- removednote = {PMID: 22889329}	(from KimLieber2012NWPV)
+	- removednote = {PMID: 25546325}	(from KimCahoon2015DielectricShell)
+	- removednote = {PMID: 26283243}	(from ZhangCahoon2013HorizontalNWs)
+
+
+
+There were 3 URL/DOI fields automatically added:
+	- doi = {10.1038/srep19834}	(from SpinaHorvath2016Nanofluidic)
+	- doi = {10.1038/nmat2037}	(from KuykendallYang2007Composition)
+	- doi = {10.1038/nature17148}	(from JacobssonRoss2016PhaseSwitching)
+
+
+
+There were 1 entries lacking both URL and DOI fields:
+	- Perea2009DopantDistribution
+
+
+
+There were 24 "Pages" fields automatically formatted:
+	- pages = {3623-3630}     --- changed to --- 	pages = {3623--3630}	(from Snaith2013NewEra)
+	- pages = {2120-2126}     --- changed to --- 	pages = {2120--2126}	(from ImPark2015NWSolarCell)
+	- pages = {4571-4577}     --- changed to --- 	pages = {4571--4577}	(from XingXiong2015NanoLettVaporPhaseNWs)
+	- pages = {3703-3710}     --- changed to --- 	pages = {3703--3710}	(from ParkSong2016LightMatter)
+	- pages = {460-466}       --- changed to --- 	pages = {460--466}	(from ChenJin2017EpitaxialCsPbX3)
+	- pages = {7974-7981}     --- changed to --- 	pages = {7974--7981}	(from WangShi2016Incommensurate)
+	- pages = {5693-5696}     --- changed to --- 	pages = {5693--5696}	(from ZhuoZhang2015PorousNWs)
+	- pages = {871-876}       --- changed to --- 	pages = {871--876}	(from ZhuZhu2016FilmToNWs)
+	- pages = {89-90}         --- changed to --- 	pages = {89--90}	(from WagnerEllis1964VLS)
+	- pages = {361-388}       --- changed to --- 	pages = {361--388}	(from SchmidtGosele2010Growth)
+	- pages = {28 - 35}       --- changed to --- 	pages = {28--35}	(from ThelanderSamuelson20061Delectronics)
+	- pages = {12731-12735}   --- changed to --- 	pages = {12731--12735}	(from AfzaalOBrien2012PbSeNWs)
+	- pages = {2907-2912}     --- changed to --- 	pages = {2907--2912}	(from BiermanJin2007Hyperbranched)
+	- pages = {909-916}       --- changed to --- 	pages = {909--916}	(from NicholsNing2015CdPbS)
+	- pages = {8730-8738}     --- changed to --- 	pages = {8730--8738}	(from NicholsNing2011PbSGrowth)
+	- pages = {4443-4449}     --- changed to --- 	pages = {4443--4449}	(from MandlMikkelsen2010SelfCatalyzedIIIV)
+	- pages = {6036-6041}     --- changed to --- 	pages = {6036--6041}	(from PrianteHarmand2015SelfCatalyzedGaPAs)
+	- pages = {6609-6613}     --- changed to --- 	pages = {6609--6613}	(from Tersoff2015SelfCatalyzedIIIV)
+	- pages = {5855-5860}     --- changed to --- 	pages = {5855--5860}	(from HaugeBakkers2015HexagonalSi)
+	- pages = {656-664}       --- changed to --- 	pages = {656--664}	(from Krylyuk2011TaperingControl)
+	- pages = {315-319}       --- changed to --- 	pages = {315--319}	(from Perea2009DopantDistribution)
+	- pages = {5519 -- 5524}  --- changed to --- 	pages = {5519--5524}	(from Wong2015AnionExchange)
+	- pages = {17730-17733}   --- changed to --- 	pages = {17730--17733}	(from D'Innocenzo2014BandGapEngineering)
+	- pages = {4390-4398}     --- changed to --- 	pages = {4390--4398}	(from MehlPapanikolas2013ZnORods)
+
+
+
+There were 1 entries with a blank "Pages" field:
+	- Brenner2016StructuralRelations
+
+
+
+There were 2 entries with a "Pages" field with one single page (this may not matter to you):
+	- GomesSorba2016InAs
+	- Wu2016RecombiantionKinetics
+
+
+
+There were 2 entries with no "Pages" field (this may not matter to you):
+	- SpinaHorvath2016Nanofluidic
+	- JoeDissertation
+
+
+
+There are 24 unique values in the "journal" field:
+	- ACS Nano
+	- Advanced Energy Materials
+	- Advanced Materials
+	- Angewandte Chemie International Edition
+	- Applied Physics Letters
+	- Chemical Reviews
+	- Chemistry of Materials
+	- J. Mater. Chem.
+	- Journal of Applied Physics
+	- Journal of Crystal Growth
+	- Journal of Phase Equilibria and Diffusion
+	- Journal of the American Chemical Society
+	- Materials Today
+	- Nano Letters
+	- Nanotechnology
+	- Nature
+	- Nature Materials
+	- Nature Nanotechnology
+	- Nature Photonics
+	- Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment
+	- Science
+	- Scientific Reports
+	- The Journal of Physical Chemistry B
+	- The Journal of Physical Chemistry Letters
+
+
+
+There are 57 unique values in the "title" field:
+	- Abrupt GaP/GaAs Interfaces in Self-Catalyzed Nanowires
+	- CdxPb1-xS Alloy Nanowires and Heterostructures with Simultaneous Emission in Mid-Infrared and Visible Wavelengths
+	- Complete composition tunability of InGaN nanowires using a combinatorial approach
+	- Conformal Organohalide Perovskites Enable Lasing on Spherical Resonators
+	- Controlled growth of \ch{CH3NH3PbI3} nanowires in arrays of open nanofluidic channels
+	- Conversion of Single Crystalline \ch{PbI2} to \ch{CH3NH3PbI3}: Structural Relations and Transformation Dynamics
+	- Diameter control of Ti-catalyzed silicon nanowires
+	- Direct Conversion of Perovskite Thin Films into Nanowires with Kinetic Control for Flexible Optoelectronic Devices
+	- Direct measurement of dopant distribution in an individual vapour-liquid-solid nanowire
+	- Discerning the Surface and Bulk Recombination Kinetics of Organic-Inorganic Halide Perovskite Single Crystals
+	- Doubling Absorption in Nanowire Solar Cells with Dielectric Shell Optical Antennas
+	- Efficient Hybrid Solar Cells Based on Meso-Superstructured Organometal Halide Perovskites
+	- Efficient planar heterojunction perovskite solar cells by vapour deposition
+	- Electronic and optical properties of lead iodide
+	- Epitaxial growth of silicon nanowires using an aluminium catalyst
+	- Growth and Anion Exchange Conversion of CH3NH3PbX3 Nanorod Arrays for Light-Emitting Diodes
+	- Growth Mechanism of Self-Catalyzed Group III-V Nanowires
+	- Growth, Thermodynamics, and Electrical Properties of Silicon Nanowires
+	- Hexagonal Silicon Realized
+	- High Photoluminescence Efficiency and Optically Pumped Lasing in Solution-Processed Mixed Halide Perovskite Semiconductors
+	- Horizontal Silicon Nanowires with Radial p-n Junctions: A Platform for Unconventional Solar Cells
+	- Hyperbranched PbS and PbSe Nanowires and the Effect of Hydrogen Gas on Their Synthesis
+	- I-Pb (Iodine-Lead)
+	- Influence of Supersaturation and Spontaneous Catalyst Formation on the Growth of PbS Wires: Toward a Unified Understanding of Growth Modes
+	- InP Nanoflag Growth from a Nanowire Template by in Situ Catalyst Manipulation
+	- Interface dynamics and crystal phase switching in GaAs nanowires
+	- Lead halide perovskite nanowire lasers with low lasing thresholds and high quality factors
+	- Lead iodide film deposition and characterization
+	- Light-Matter Interactions in Cesium Lead Halide Perovskite Nanowire Lasers
+	- Low-temperature solution-processed wavelength-tunable perovskites for lasing
+	- Nanowire Lasers of Formamidinium Lead Halide Perovskites and Their Stabilized Alloys with Improved Stability
+	- Nanowire Perovskite Solar Cell
+	- Nanowire-based one-dimensional electronics
+	- Nontemplate Synthesis of \ch{CH3NH3PbBr3} Perovskite Nanoparticles
+	- Nucleation and growth mechanism of self-catalyzed {InAs} nanowires on silicon
+	- Perovskite energy funnels for efficient light-emitting diodes
+	- Perovskite photonic sources
+	- Perovskite Thin Films via Atomic Layer Deposition
+	- Perovskites: The Emergence of a New Era for Low-Cost, High-Efficiency Solar Cells
+	- Photon Transport in One-Dimensional Incommensurately Epitaxial CsPbX3 Arrays
+	- Probing the growth mechanism of self-catalytic lead selenide wires
+	- Pump-Probe Microscopy: Spatially Resolved Carrier Dynamics in ZnO Rods and the Influence of Optical Cavity Resonator Modes
+	- Reversible Hydration of \ch{CH3NH3PbI3} in Films, Single Crystals, and Solar Cells
+	- Self-Template-Directed Synthesis of Porous Perovskite Nanowires at Room Temperature for High-Performance Visible-Light Photodetectors
+	- Semiconductor Nanowire Optical Antenna Solar Absorbers
+	- Sensitive X-ray detectors made of methylammonium lead tribromide perovskite single crystals
+	- Single-nanowire electrically driven lasers
+	- Stable Self-Catalyzed Growth of III-V Nanowires
+	- Synthetically Controlling Doping and Nanoscale Morphology in Vapor-Liquid-Solid Grown Silicon Nanowires to Encode Functionality
+	- Tapering Control of Si Nanowires Grown from SiCl4 at Reduced Pressure
+	- Templated Synthesis of Uniform Perovskite Nanowire Arrays
+	- The emergence of perovskite solar cells
+	- Tuning Light Absorption in Core/Shell Silicon Nanowire Photovoltaic Devices through Morphological Design
+	- Tuning the Light Emission Properties by Band Gap Engineering in Hybrid Lead Halide Perovskite
+	- Vapor Phase Synthesis of Organometal Halide Perovskite Nanowires for Tunable Room-Temperature Nanolasers
+	- VAPOR-LIQUID-SOLID MECHANISM OF SINGLE CRYSTAL GROWTH
+	- Vapor-Phase Epitaxial Growth of Aligned Nanowire Networks of Cesium Lead Halide Perovskites (CsPbX3, X = Cl, Br, I)
+
+
+
+There are 0 entries having empty or missing the "author" field:
+
+
+
+There are 0 entries having empty or missing the "title" field:
+
+
+
+There are 1 entries having empty or missing the "journal" field:
+	- JoeDissertation
+
+
+
+There are 0 entries having empty or missing the "year" field:
+
+
+
+There are 1 entries having empty or missing the "volume" field:
+	- JoeDissertation

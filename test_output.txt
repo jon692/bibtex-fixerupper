@@ -1,0 +1,1009 @@
+@article{LeeSnaith2012MesoSuperstructured,
+author = {Lee, Michael M. and Teuscher, Jo{\"e}l and Miyasaka, Tsutomu and Murakami, Takurou N. and Snaith, Henry J.},
+title = {Efficient Hybrid Solar Cells Based on Meso-Superstructured Organometal Halide Perovskites},
+volume = {338},
+number = {6107},
+pages = {643--647},
+year = {2012},
+doi = {10.1126/science.1228604},
+publisher = {American Association for the Advancement of Science},
+issn = {0036-8075},
+url = {https://science.sciencemag.org/content/338/6107/643},
+eprint = {https://science.sciencemag.org/content/338/6107/643.full.pdf},
+journal = {Science},
+}
+
+
+
+
+
+@article{LiuSnaith2013VaporDeposition,
+author = {Liu, Mingzhen and Johnston, Michael B. and Snaith, Henry J.},
+title = {Efficient planar heterojunction perovskite solar cells by vapour deposition},
+journal = {Nature},
+year = {2013},
+month = {Sep},
+day = {11},
+publisher = {Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved. SN  -},
+volume = {501},
+pages = {395--398},
+doi = {10.1038/nature12509},
+url = {https://doi.org/10.1038/nature12509},
+}
+
+
+
+
+
+@article{Snaith2013NewEra,
+author = {Snaith, Henry J.},
+title = {Perovskites: The Emergence of a New Era for Low-Cost, High-Efficiency Solar Cells},
+journal = {The Journal of Physical Chemistry Letters},
+volume = {4},
+number = {21},
+pages = {3623--3630},
+year = {2013},
+doi = {10.1021/jz4020162},
+url = {https://doi.org/10.1021/jz4020162},
+eprint = {https://doi.org/10.1021/jz4020162},
+}
+
+
+
+
+
+@article{GreenSnaith2014Emergence,
+author = {Green, Martin A. and Ho-Baillie, Anita and Snaith, Henry J.},
+title = {The emergence of perovskite solar cells},
+journal = {Nature Photonics},
+year = {2014},
+month = {Jun},
+day = {27},
+publisher = {Nature Publishing Group},
+volume = {8},
+pages = {506--514},
+doi = {10.1038/nphoton.2014.134},
+url = {https://doi.org/10.1038/nphoton.2014.134},
+}
+
+
+
+
+
+@article{WeiHuang2016Xray,
+author = {Wei, Haotong and Fang, Yanjun and Mulligan, Padhraic and Chuirazzi, William and Fang, Hong-Hua and Wang, Congcong and Ecker, Benjamin R. and Gao, Yongli and Loi, Maria Antonietta and Cao, Lei and Huang, Jinsong},
+title = {Sensitive X-ray detectors made of methylammonium lead tribromide perovskite single crystals},
+journal = {Nature Photonics},
+year = {2016},
+month = {Mar},
+day = {21},
+publisher = {Nature Publishing Group},
+volume = {10},
+pages = {333--339},
+doi = {10.1038/nphoton.2016.41},
+url = {https://doi.org/10.1038/nphoton.2016.41},
+}
+
+
+
+
+
+@article{SutherlandSargent2016NatPhoton,
+author = {Sutherland, Brandon R. and Sargent, Edward H.},
+title = {Perovskite photonic sources},
+journal = {Nature Photonics},
+year = {2016},
+month = {Apr},
+day = {28},
+publisher = {Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved. SN  -},
+volume = {10},
+pages = {295--302},
+doi = {10.1038/nphoton.2016.62},
+url = {https://doi.org/10.1038/nphoton.2016.62},
+}
+
+
+
+
+
+@article{YuanSargent2016FunnelsLEDs,
+author = {Yuan, Mingjian and Quan, Li Na and Comin, Riccardo and Walters, Grant and Sabatini, Randy and Voznyy, Oleksandr and Hoogland, Sjoerd and Zhao, Yongbiao and Beauregard, Eric M. and Kanjanaboos, Pongsakorn and Lu, Zhenghong and Kim, Dong Ha and Sargent, Edward H.},
+title = {Perovskite energy funnels for efficient light-emitting diodes},
+journal = {Nature Nanotechnology},
+year = {2016},
+month = {Jun},
+day = {27},
+publisher = {Nature Publishing Group},
+volume = {11},
+pages = {872--877},
+doi = {10.1038/nnano.2016.110},
+url = {https://doi.org/10.1038/nnano.2016.110},
+}
+
+
+
+
+
+@article{XingSum2014TunableLasing,
+author = {Xing, Guichuan and Mathews, Nripan and Lim, Swee Sien and Yantara, Natalia and Liu, Xinfeng and Sabba, Dharani and Gr{\"a}tzel, Michael and Mhaisalkar, Subodh and Sum, Tze Chien},
+title = {Low-temperature solution-processed wavelength-tunable perovskites for lasing},
+journal = {Nature Materials},
+year = {2014},
+month = {Mar},
+day = {16},
+publisher = {Nature Publishing Group},
+volume = {13},
+pages = {476--480},
+doi = {10.1038/nmat3911},
+url = {https://doi.org/10.1038/nmat3911},
+}
+
+
+
+
+
+@article{DeschlerFriend2014Lasing,
+author = {Deschler, Felix and Price, Michael and Pathak, Sandeep and Klintberg, Lina E. and Jarausch, David-Dominik and Higler, Ruben and H{\"u}ttner, Sven and Leijtens, Tomas and Stranks, Samuel D. and Snaith, Henry J. and Atat{\"u}re, Mete and Phillips, Richard T. and Friend, Richard H.},
+title = {High Photoluminescence Efficiency and Optically Pumped Lasing in Solution-Processed Mixed Halide Perovskite Semiconductors},
+journal = {The Journal of Physical Chemistry Letters},
+volume = {5},
+number = {8},
+pages = {1421--1426},
+year = {2014},
+doi = {10.1021/jz5005285},
+url = {https://doi.org/10.1021/jz5005285},
+eprint = {https://doi.org/10.1021/jz5005285},
+}
+
+
+
+
+
+@article{ZhuXYZ2015NWlasers,
+author = {Zhu, Haiming and Fu, Yongping and Meng, Fei and Wu, Xiaoxi and Gong, Zizhou and Ding, Qi and Gustafsson, Martin V. and Trinh, M. Tuan and Jin, Song and Zhu, X.-Y.},
+title = {Lead halide perovskite nanowire lasers with low lasing thresholds and high quality factors},
+journal = {Nature Materials},
+year = {2015},
+month = {Apr},
+day = {13},
+publisher = {Nature Publishing Group},
+volume = {14},
+pages = {636--642},
+doi = {10.1038/nmat4271},
+url = {https://doi.org/10.1038/nmat4271},
+}
+
+
+
+
+
+@article{SutherlandSargent2014SphericalResonators,
+author = {Sutherland, Brandon R. and Hoogland, Sjoerd and Adachi, Michael M. and Wong, Chris T. O. and Sargent, Edward H.},
+title = {Conformal Organohalide Perovskites Enable Lasing on Spherical Resonators},
+journal = {ACS Nano},
+volume = {8},
+number = {10},
+pages = {10947--10952},
+year = {2014},
+doi = {10.1021/nn504856g},
+url = {https://doi.org/10.1021/nn504856g},
+eprint = {https://doi.org/10.1021/nn504856g},
+}
+
+
+
+
+
+@article{SutherlandSargent2015ALD,
+author = {Sutherland, Brandon R. and Hoogland, Sjoerd and Adachi, Michael M. and Kanjanaboos, Pongsakorn and Wong, Chris T. O. and McDowell, Jeffrey J. and Xu, Jixian and Voznyy, Oleksandr and Ning, Zhijun and Houtepen, Arjan J. and Sargent, Edward H.},
+title = {Perovskite Thin Films via Atomic Layer Deposition},
+journal = {Advanced Materials},
+volume = {27},
+number = {1},
+pages = {53--58},
+keywords = {atomic layer deposition, optical gain, perovskites, transient absorption},
+doi = {10.1002/adma.201403965},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201403965},
+eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/adma.201403965},
+year = {2015},
+}
+
+
+
+
+
+@article{SchmidtPerezPrieto2014Nontemplate,
+author = {Schmidt, Luciana C. and Perteg{\'a}s, Antonio and Gonz{\'a}lez-Carrero, Soranyel and Malinkiewicz, Olga and Agouram, Said and M{\'i}nguez Espallargas, Guillermo and Bolink, Henk J. and Galian, Raquel E. and P{\'e}rez-Prieto, Julia},
+title = {Nontemplate Synthesis of \ch{CH3NH3PbBr3} Perovskite Nanoparticles},
+journal = {Journal of the American Chemical Society},
+volume = {136},
+number = {3},
+pages = {850--853},
+year = {2014},
+doi = {10.1021/ja4109209},
+url = {https://doi.org/10.1021/ja4109209},
+eprint = {https://doi.org/10.1021/ja4109209},
+}
+
+
+
+
+
+@article{AshleyMirkin2016TemplatedNWArray,
+author = {Ashley, Michael J. and O'Brien, Matthew N. and Hedderick, Konrad R. and Mason, Jarad A. and Ross, Michael B. and Mirkin, Chad A.},
+title = {Templated Synthesis of Uniform Perovskite Nanowire Arrays},
+journal = {Journal of the American Chemical Society},
+volume = {138},
+number = {32},
+pages = {10096--10099},
+year = {2016},
+doi = {10.1021/jacs.6b05901},
+url = {https://doi.org/10.1021/jacs.6b05901},
+eprint = {https://doi.org/10.1021/jacs.6b05901},
+}
+
+
+
+
+
+@article{ImPark2015NWSolarCell,
+author = {Im, Jeong-Hyeok and Luo, Jingshan and Franckevi{\v c}ius, Marius and Pellet, Norman and Gao, Peng and Moehl, Thomas and Zakeeruddin, Shaik Mohammed and Nazeeruddin, Mohammad Khaja and Gr{\"a}tzel, Michael and Park, Nam-Gyu},
+title = {Nanowire Perovskite Solar Cell},
+journal = {Nano Letters},
+volume = {15},
+number = {3},
+pages = {2120--2126},
+year = {2015},
+doi = {10.1021/acs.nanolett.5b00046},
+url = {https://doi.org/10.1021/acs.nanolett.5b00046},
+eprint = {https://doi.org/10.1021/acs.nanolett.5b00046},
+}
+
+
+
+
+
+@article{FuJin2016NWLasers,
+author = {Fu, Yongping and Zhu, Haiming and Schrader, Alex W. and Liang, Dong and Ding, Qi and Joshi, Prakriti and Hwang, Leekyoung and Zhu, X-Y. and Jin, Song},
+title = {Nanowire Lasers of Formamidinium Lead Halide Perovskites and Their Stabilized Alloys with Improved Stability},
+journal = {Nano Letters},
+volume = {16},
+number = {2},
+pages = {1000--1008},
+year = {2016},
+doi = {10.1021/acs.nanolett.5b04053},
+url = {https://doi.org/10.1021/acs.nanolett.5b04053},
+eprint = {https://doi.org/10.1021/acs.nanolett.5b04053},
+}
+
+
+
+
+
+@article{XingXiong2015NanoLettVaporPhaseNWs,
+author = {Xing, Jun and Liu, Xin Feng and Zhang, Qing and Ha, Son Tung and Yuan, Yan Wen and Shen, Chao and Sum, Tze Chien and Xiong, Qihua},
+title = {Vapor Phase Synthesis of Organometal Halide Perovskite Nanowires for Tunable Room-Temperature Nanolasers},
+journal = {Nano Letters},
+volume = {15},
+number = {7},
+pages = {4571--4577},
+year = {2015},
+doi = {10.1021/acs.nanolett.5b01166},
+removednote = {PMID: 26043362},
+url = {https://doi.org/10.1021/acs.nanolett.5b01166},
+eprint = {https://doi.org/10.1021/acs.nanolett.5b01166},
+}
+
+
+
+
+
+@article{ParkSong2016LightMatter,
+author = {Park, Kidong and Lee, Jong Woon and Kim, Jun Dong and Han, Noh Soo and Jang, Dong Myung and Jeong, Seonghyun and Park, Jeunghee and Song, Jae Kyu},
+title = {Light-Matter Interactions in Cesium Lead Halide Perovskite Nanowire Lasers},
+journal = {The Journal of Physical Chemistry Letters},
+volume = {7},
+number = {18},
+pages = {3703--3710},
+year = {2016},
+doi = {10.1021/acs.jpclett.6b01821},
+removednote = {PMID: 27594046},
+url = {https://doi.org/10.1021/acs.jpclett.6b01821},
+eprint = {https://doi.org/10.1021/acs.jpclett.6b01821},
+}
+
+
+
+
+
+@article{ChenJin2017EpitaxialCsPbX3,
+author = {Chen, Jie and Fu, Yongping and Samad, Leith and Dang, Lianna and Zhao, Yuzhou and Shen, Shaohua and Guo, Liejin and Jin, Song},
+title = {Vapor-Phase Epitaxial Growth of Aligned Nanowire Networks of Cesium Lead Halide Perovskites (CsPbX3, X = Cl, Br, I)},
+journal = {Nano Letters},
+volume = {17},
+number = {1},
+pages = {460--466},
+year = {2017},
+doi = {10.1021/acs.nanolett.6b04450},
+removednote = {PMID: 28002671},
+url = {https://doi.org/10.1021/acs.nanolett.6b04450},
+eprint = {https://doi.org/10.1021/acs.nanolett.6b04450},
+}
+
+
+
+
+
+@article{WangShi2016Incommensurate,
+author = {Wang, Yiping and Sun, Xin and Shivanna, Ravichandran and Yang, Yunbo and Chen, Zhizhong and Guo, Yuwei and Wang, Gwo-Ching and Wertz, Esther and Deschler, Felix and Cai, Zhonghou and Zhou, Hua and Lu, Toh-Ming and Shi, Jian},
+title = {Photon Transport in One-Dimensional Incommensurately Epitaxial CsPbX3 Arrays},
+journal = {Nano Letters},
+volume = {16},
+number = {12},
+pages = {7974--7981},
+year = {2016},
+doi = {10.1021/acs.nanolett.6b04297},
+removednote = {PMID: 27960450},
+url = {https://doi.org/10.1021/acs.nanolett.6b04297},
+eprint = {https://doi.org/10.1021/acs.nanolett.6b04297},
+}
+
+
+
+
+
+@article{SpinaHorvath2016Nanofluidic,
+author = {Spina, Massimo and Bonvin, Eric and Sienkiewicz, Andrzej and N{\'a}fr{\'a}di, B{\'a}lint and Forr{\'o}, L{\'a}szl{\'o} and Horv{\'a}th, Endre},
+title = {Controlled growth of \ch{CH3NH3PbI3} nanowires in arrays of open nanofluidic channels},
+journal = {Scientific Reports},
+year = {2016},
+month = {Jan},
+day = {25},
+publisher = {Nature Publishing Group},
+volume = {6},
+doi = {10.1038/srep19834},
+number = {19834},
+url = {https://doi.org/10.1038/srep19834},
+}
+
+
+
+
+
+@article{ZhuoZhang2015PorousNWs,
+author = {Zhuo, Sifei and Zhang, Jingfang and Shi, Yanmei and Huang, Yi and Zhang, Bin},
+title = {Self-Template-Directed Synthesis of Porous Perovskite Nanowires at Room Temperature for High-Performance Visible-Light Photodetectors},
+journal = {Angewandte Chemie International Edition},
+volume = {54},
+number = {19},
+pages = {5693--5696},
+keywords = {nanowires, perovskites, photodectors, porous materials, self-template},
+doi = {10.1002/anie.201411956},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201411956},
+eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/anie.201411956},
+year = {2015},
+}
+
+
+
+
+
+@article{ZhuZhu2016FilmToNWs,
+author = {Zhu, Pengchen and Gu, Shuai and Shen, Xinpeng and Xu, Ning and Tan, Yingling and Zhuang, Shendong and Deng, Yu and Lu, Zhenda and Wang, Zhenlin and Zhu, Jia},
+title = {Direct Conversion of Perovskite Thin Films into Nanowires with Kinetic Control for Flexible Optoelectronic Devices},
+journal = {Nano Letters},
+volume = {16},
+number = {2},
+pages = {871--876},
+year = {2016},
+doi = {10.1021/acs.nanolett.5b03504},
+removednote = {PMID: 26797488},
+url = {https://doi.org/10.1021/acs.nanolett.5b03504},
+eprint = {https://doi.org/10.1021/acs.nanolett.5b03504},
+}
+
+
+
+
+
+@article{WagnerEllis1964VLS,
+author = {Wagner,R. S.  and Ellis,W. C.},
+title = {VAPOR-LIQUID-SOLID MECHANISM OF SINGLE CRYSTAL GROWTH},
+journal = {Applied Physics Letters},
+volume = {4},
+number = {5},
+pages = {89--90},
+year = {1964},
+doi = {10.1063/1.1753975},
+url = {https://doi.org/10.1063/1.1753975},
+eprint = {https://doi.org/10.1063/1.1753975},
+}
+
+
+
+
+
+@article{SchmidtGosele2010Growth,
+author = {Schmidt, V. and Wittemann, J. V. and G{\"o}sele, U.},
+title = {Growth, Thermodynamics, and Electrical Properties of Silicon Nanowires},
+journal = {Chemical Reviews},
+volume = {110},
+number = {1},
+pages = {361--388},
+year = {2010},
+doi = {10.1021/cr900141g},
+removednote = {PMID: 20070117},
+url = {https://doi.org/10.1021/cr900141g},
+eprint = {https://doi.org/10.1021/cr900141g},
+}
+
+
+
+
+
+@article{ThelanderSamuelson20061Delectronics,
+title = {Nanowire-based one-dimensional electronics},
+journal = {Materials Today},
+volume = {9},
+number = {10},
+pages = {28--35},
+year = {2006},
+issn = {1369-7021},
+doi = {https://doi.org/10.1016/S1369-7021(06)71651-0},
+url = {http://www.sciencedirect.com/science/article/pii/S1369702106716510},
+author = {C. Thelander and P. Agarwal and S. Brongersma and J. Eymery and L.F. Feiner and A. Forchel and M. Scheffler and W. Riess and B.J. Ohlsson and U. G{\"o}sele and L. Samuelson},
+}
+
+
+
+
+
+@article{AfzaalOBrien2012PbSeNWs,
+author = {Afzaal, Mohammad and Ahmad, Kibriya and O{'}Brien, Paul},
+title = {Probing the growth mechanism of self-catalytic lead selenide wires},
+journal = {J. Mater. Chem.},
+year = {2012},
+volume = {22},
+issue = {25},
+pages = {12731--12735},
+publisher = {The Royal Society of Chemistry},
+doi = {10.1039/C2JM31840G},
+url = {http://dx.doi.org/10.1039/C2JM31840G},
+}
+
+
+
+
+
+@article{BiermanJin2007Hyperbranched,
+author = {Bierman, Matthew J. and Lau, Y. K. Albert and Jin, Song},
+title = {Hyperbranched PbS and PbSe Nanowires and the Effect of Hydrogen Gas on Their Synthesis},
+journal = {Nano Letters},
+volume = {7},
+number = {9},
+pages = {2907--2912},
+year = {2007},
+doi = {10.1021/nl071405l},
+removednote = {PMID: 17672508},
+url = {https://doi.org/10.1021/nl071405l},
+eprint = {https://doi.org/10.1021/nl071405l},
+}
+
+
+
+
+
+@article{NicholsNing2015CdPbS,
+author = {Nichols, Patricia L. and Liu, Zhicheng and Yin, Leijun and Turkdogan, Sunay and Fan, Fan and Ning, C. Z.},
+title = {CdxPb1-xS Alloy Nanowires and Heterostructures with Simultaneous Emission in Mid-Infrared and Visible Wavelengths},
+journal = {Nano Letters},
+volume = {15},
+number = {2},
+pages = {909--916},
+year = {2015},
+doi = {10.1021/nl503640x},
+removednote = {PMID: 25594578},
+url = {https://doi.org/10.1021/nl503640x},
+eprint = {https://doi.org/10.1021/nl503640x},
+}
+
+
+
+
+
+@article{NicholsNing2011PbSGrowth,
+author = {Nichols, Patricia L. and Sun, Minghua and Ning, Cun-Zheng},
+title = {Influence of Supersaturation and Spontaneous Catalyst Formation on the Growth of PbS Wires: Toward a Unified Understanding of Growth Modes},
+journal = {ACS Nano},
+volume = {5},
+number = {11},
+pages = {8730--8738},
+year = {2011},
+doi = {10.1021/nn202704u},
+removednote = {PMID: 21981350},
+url = {https://doi.org/10.1021/nn202704u},
+eprint = {https://doi.org/10.1021/nn202704u},
+}
+
+
+
+
+
+@article{GomesSorba2016InAs,
+doi = {10.1088/0957-4484/27/25/255601},
+url = {https://doi.org/10.1088\%2F0957-4484\%2F27\%2F25\%2F255601},
+year = {2016},
+month = {may},
+publisher = {{IOP} Publishing},
+volume = {27},
+number = {25},
+pages = {255601},
+author = {U P Gomes and D Ercolani and V Zannier and J David and M Gemmi and F Beltram and L Sorba},
+title = {Nucleation and growth mechanism of self-catalyzed {InAs} nanowires on silicon},
+journal = {Nanotechnology},
+}
+
+
+
+
+
+@article{MandlMikkelsen2010SelfCatalyzedIIIV,
+author = {Mandl, Bernhard and Stangl, Julian and Hilner, Emelie and Zakharov, Alexei A. and Hillerich, Karla and Dey, Anil W. and Samuelson, Lars and Bauer, G{\"u}nther and Deppert, Knut and Mikkelsen, Anders},
+title = {Growth Mechanism of Self-Catalyzed Group III-V Nanowires},
+journal = {Nano Letters},
+volume = {10},
+number = {11},
+pages = {4443--4449},
+year = {2010},
+doi = {10.1021/nl1022699},
+removednote = {PMID: 20939507},
+url = {https://doi.org/10.1021/nl1022699},
+eprint = {https://doi.org/10.1021/nl1022699},
+}
+
+
+
+
+
+@article{PrianteHarmand2015SelfCatalyzedGaPAs,
+author = {Priante, Giacomo and Patriarche, Gilles and Oehler, Fabrice and Glas, Frank and Harmand, Jean-Christophe},
+title = {Abrupt GaP/GaAs Interfaces in Self-Catalyzed Nanowires},
+journal = {Nano Letters},
+volume = {15},
+number = {9},
+pages = {6036--6041},
+year = {2015},
+doi = {10.1021/acs.nanolett.5b02224},
+removednote = {PMID: 26217912},
+url = {https://doi.org/10.1021/acs.nanolett.5b02224},
+eprint = {https://doi.org/10.1021/acs.nanolett.5b02224},
+}
+
+
+
+
+
+@article{Tersoff2015SelfCatalyzedIIIV,
+author = {Tersoff, J.},
+title = {Stable Self-Catalyzed Growth of III-V Nanowires},
+journal = {Nano Letters},
+volume = {15},
+number = {10},
+pages = {6609--6613},
+year = {2015},
+doi = {10.1021/acs.nanolett.5b02386},
+removednote = {PMID: 26389697},
+url = {https://doi.org/10.1021/acs.nanolett.5b02386},
+eprint = {https://doi.org/10.1021/acs.nanolett.5b02386},
+}
+
+
+
+
+
+@article{KuykendallYang2007Composition,
+author = {Kuykendall, Tevye and Ulrich, Philipp and Aloni, Shaul and Yang, Peidong},
+title = {Complete composition tunability of InGaN nanowires using a combinatorial approach},
+journal = {Nature Materials},
+year = {2007},
+month = {Oct},
+day = {28},
+publisher = {Nature Publishing Group},
+volume = {6},
+doi = {10.1038/nmat2037},
+pages = {951--956},
+url = {https://doi.org/10.1038/nmat2037},
+}
+
+
+
+
+
+@article{JacobssonRoss2016PhaseSwitching,
+author = {Jacobsson, Daniel and Panciera, Federico and Tersoff, Jerry and Reuter, Mark C. and Lehmann, Sebastian and Hofmann, Stephan and Dick, Kimberly A. and Ross, Frances M.},
+title = {Interface dynamics and crystal phase switching in GaAs nanowires},
+journal = {Nature},
+year = {2016},
+month = {Mar},
+day = {16},
+publisher = {Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved. SN  -},
+volume = {531},
+doi = {10.1038/nature17148},
+pages = {317--322},
+url = {https://doi.org/10.1038/nature17148},
+}
+
+
+
+
+
+@article{HaugeBakkers2015HexagonalSi,
+author = {Hauge, H{\aa}kon Ikaros T. and Verheijen, Marcel A. and Conesa-Boj, Sonia and Etzelstorfer, Tanja and Watzinger, Marc and Kriegner, Dominik and Zardo, Ilaria and Fasolato, Claudia and Capitani, Francesco and Postorino, Paolo and K{\"o}lling, Sebastian and Li, Ang and Assali, Simone and Stangl, Julian and Bakkers, Erik P. A. M.},
+title = {Hexagonal Silicon Realized},
+journal = {Nano Letters},
+volume = {15},
+number = {9},
+pages = {5855--5860},
+year = {2015},
+doi = {10.1021/acs.nanolett.5b01939},
+removednote = {PMID: 26230363},
+url = {https://doi.org/10.1021/acs.nanolett.5b01939},
+eprint = {https://doi.org/10.1021/acs.nanolett.5b01939},
+}
+
+
+
+
+
+@article{Okamoto2010PbIPhaseDiagram,
+author = {Okamoto, H.},
+title = {I-Pb (Iodine-Lead)},
+journal = {Journal of Phase Equilibria and Diffusion},
+year = {2010},
+month = {Jun},
+day = {01},
+volume = {31},
+number = {3},
+pages = {320--321},
+issn = {1863-7345},
+doi = {10.1007/s11669-010-9700-1},
+url = {https://doi.org/10.1007/s11669-010-9700-1},
+}
+
+
+
+
+
+@article{Krylyuk2011TaperingControl,
+author = {Krylyuk, Sergiy and Davydov, Albert V. and Levin, Igor},
+title = {Tapering Control of Si Nanowires Grown from SiCl4 at Reduced Pressure},
+journal = {ACS Nano},
+volume = {5},
+number = {1},
+pages = {656--664},
+year = {2011},
+doi = {10.1021/nn102556s},
+removednote = {PMID: 21158417},
+url = {https://doi.org/10.1021/nn102556s},
+eprint = {https://doi.org/10.1021/nn102556s},
+}
+
+
+
+
+
+@article{sharma2004DiameterControl,
+title = {Diameter control of Ti-catalyzed silicon nanowires},
+journal = {Journal of Crystal Growth},
+volume = {267},
+number = {3},
+pages = {613--618},
+year = {2004},
+issn = {0022-0248},
+doi = {10.1016/j.jcrysgro.2004.04.042},
+url = {http://www.sciencedirect.com/science/article/pii/S0022024804004610},
+author = {S Sharma and T.I Kamins and R.Stanley Williams},
+keywords = {A1. Diameter control, A1. Synthesis, A2. Chemical vapor deposition processes, B1. Nanowires, B1. Silicon},
+}
+
+
+
+
+
+@article{Wang2006EpitaxialGrowth,
+author = {Wang, Yewu and Schmidt, Volker and Senz, Stephan and G{\"o}sele, Ulrich},
+title = {Epitaxial growth of silicon nanowires using an aluminium catalyst},
+journal = {Nature Nanotechnology},
+year = {2006},
+volume = {1},
+number = {3},
+pages = {186--189},
+issn = {1748-3395},
+doi = {10.1038/nnano.2006.133},
+url = {https://doi.org/10.1038/nnano.2006.133},
+}
+
+
+
+
+
+@article{Perea2009DopantDistribution,
+author = {Perea, Daniel E. and Hemesath, Eric R. and Schwalbach, Edwin J. and Lensch-Falk, Jessica L. and Voorhees, Peter W. and Lauhon, Lincoln J.},
+title = {Direct measurement of dopant distribution in an individual vapour-liquid-solid nanowire},
+journal = {Nature Nanotechnology},
+year = {2009},
+volume = {4},
+number = {5},
+pages = {315--319},
+issn = {1748-3395},
+}
+
+
+
+
+
+@article{Kelrich2016Nanoflag,
+author = {Kelrich, Alexander and Sorias, Ofir and Calahorra, Yonatan and Kauffmann, Yaron and Gladstone, Ran and Cohen, Shimon and Orenstein, Meir and Ritter, Dan},
+title = {InP Nanoflag Growth from a Nanowire Template by in Situ Catalyst Manipulation},
+journal = {Nano Letters},
+volume = {16},
+number = {4},
+pages = {2837--2844},
+year = {2016},
+doi = {10.1021/acs.nanolett.6b00648},
+removednote = {PMID: 26999355},
+url = {https://doi.org/10.1021/acs.nanolett.6b00648},
+eprint = {https://doi.org/10.1021/acs.nanolett.6b00648},
+}
+
+
+
+
+
+@article{Fornaro2001LeadIodide,
+title = {Lead iodide film deposition and characterization},
+journal = {Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment},
+volume = {458},
+number = {1},
+pages = {406--412},
+year = {2001},
+removednote = {Proc. 11th Inbt. Workshop on Room Temperature Semiconductor X- and Gamma-Ray Detectors and Associated Electronics},
+issn = {0168-9002},
+doi = {https://doi.org/10.1016/S0168-9002(00)00933-5},
+url = {http://www.sciencedirect.com/science/article/pii/S0168900200009335},
+author = {L. Fornaro and E. Saucedo and L. Mussio and L. Yerman and X. Ma and A. Burger},
+keywords = {Lead iodide, PbI, X-ray detectors},
+}
+
+
+
+
+
+@article{Brenner2016StructuralRelations,
+author = {Brenner, Thomas M. and Rakita, Yevgeny and Orr, Yonatan and Klein, Eugenia and Feldman, Ishay and Elbaum, Michael and Cahen, David and Hodes, Gary},
+title = {Conversion of Single Crystalline \ch{PbI2} to \ch{CH3NH3PbI3}: Structural Relations and Transformation Dynamics},
+journal = {Chemistry of Materials},
+volume = {28},
+number = {18},
+pages = {},
+year = {2016},
+doi = {10.1021/acs.chemmater.6b01747},
+url = {https://doi.org/10.1021/acs.chemmater.6b01747},
+eprint = {https://doi.org/10.1021/acs.chemmater.6b01747},
+}
+
+
+
+
+
+@article{Wong2015AnionExchange,
+author = {Wong, Andrew Barnabas and Lai, Minliang and Eaton, Samuel Wilson and Yu, Yi and Lin, Elbert and Dou, Letian and Fu, Anthony and Yang, Peidong},
+title = {Growth and Anion Exchange Conversion of CH3NH3PbX3 Nanorod Arrays for Light-Emitting Diodes},
+journal = {Nano Letters},
+volume = {15},
+number = {8},
+pages = {5519--5524},
+year = {2015},
+doi = {10.1021/acs.nanolett.5b02082},
+removednote = {PMID: 26192740},
+url = {https://doi.org/10.1021/acs.nanolett.5b02082},
+eprint = {https://doi.org/10.1021/acs.nanolett.5b02082},
+}
+
+
+
+
+
+@article{Wu2016RecombiantionKinetics,
+author = {Wu, Bo and Nguyen, Huy Tiep and Ku, Zhiliang and Han, Guifang and Giovanni, David and Mathews, Nripan and Fan, Hong Jin and Sum, Tze Chien},
+title = {Discerning the Surface and Bulk Recombination Kinetics of Organic-Inorganic Halide Perovskite Single Crystals},
+journal = {Advanced Energy Materials},
+volume = {6},
+number = {14},
+pages = {1600551},
+keywords = {bulk photophysics, charge kinetics, organic-inorganic halide perovskite, single crystals, surface photophysics},
+doi = {10.1002/aenm.201600551},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/aenm.201600551},
+eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/aenm.201600551},
+year = {2016},
+}
+
+
+
+
+
+@article{D'Innocenzo2014BandGapEngineering,
+author = {D'Innocenzo, Valerio and Srimath Kandada, Ajay Ram and De Bastiani, Michele and Gandini, Marina and Petrozza, Annamaria},
+title = {Tuning the Light Emission Properties by Band Gap Engineering in Hybrid Lead Halide Perovskite},
+journal = {Journal of the American Chemical Society},
+volume = {136},
+number = {51},
+pages = {17730--17733},
+year = {2014},
+doi = {10.1021/ja511198f},
+removednote = {PMID: 25469762},
+url = {https://doi.org/10.1021/ja511198f},
+eprint = {https://doi.org/10.1021/ja511198f},
+}
+
+
+
+
+
+@article{MehlPapanikolas2013ZnORods,
+author = {Mehl, Brian P. and Kirschbrown, Justin R. and Gabriel, Michelle M. and House, Ralph L. and Papanikolas, John M.},
+title = {Pump-Probe Microscopy: Spatially Resolved Carrier Dynamics in ZnO Rods and the Influence of Optical Cavity Resonator Modes},
+journal = {The Journal of Physical Chemistry B},
+volume = {117},
+number = {16},
+pages = {4390--4398},
+year = {2013},
+doi = {10.1021/jp307089h},
+removednote = {PMID: 23092237},
+url = {https://doi.org/10.1021/jp307089h},
+eprint = {https://doi.org/10.1021/jp307089h},
+}
+
+
+
+
+
+@article{CaoBrongersma2010OpticalAntenna,
+author = {Cao, Linyou and Fan, Pengyu and Vasudev, Alok P. and White, Justin S. and Yu, Zongfu and Cai, Wenshan and Schuller, Jon A. and Fan, Shanhui and Brongersma, Mark L.},
+title = {Semiconductor Nanowire Optical Antenna Solar Absorbers},
+journal = {Nano Letters},
+volume = {10},
+number = {2},
+pages = {439--445},
+year = {2010},
+doi = {10.1021/nl9036627},
+removednote = {PMID: 20078065},
+url = {https://doi.org/10.1021/nl9036627},
+eprint = {https://doi.org/10.1021/nl9036627},
+}
+
+
+
+
+
+@article{KimLieber2012NWPV,
+author = {Kim, Sun-Kyung and Day, Robert W. and Cahoon, James F. and Kempa, Thomas J. and Song, Kyung-Deok and Park, Hong-Gyu and Lieber, Charles M.},
+title = {Tuning Light Absorption in Core/Shell Silicon Nanowire Photovoltaic Devices through Morphological Design},
+journal = {Nano Letters},
+volume = {12},
+number = {9},
+pages = {4971--4976},
+year = {2012},
+doi = {10.1021/nl302578z},
+removednote = {PMID: 22889329},
+url = {https://doi.org/10.1021/nl302578z},
+eprint = {https://doi.org/10.1021/nl302578z},
+}
+
+
+
+
+
+@article{KimCahoon2015DielectricShell,
+author = {Kim, Sun-Kyung and Zhang, Xing and Hill, David J. and Song, Kyung-Deok and Park, Jin-Sung and Park, Hong-Gyu and Cahoon, James F.},
+title = {Doubling Absorption in Nanowire Solar Cells with Dielectric Shell Optical Antennas},
+journal = {Nano Letters},
+volume = {15},
+number = {1},
+pages = {753--758},
+year = {2015},
+doi = {10.1021/nl504462e},
+removednote = {PMID: 25546325},
+url = {https://doi.org/10.1021/nl504462e},
+eprint = {https://doi.org/10.1021/nl504462e},
+}
+
+
+
+
+
+@article{Ahuja2002PbI2,
+author = {Ahuja,R.  and Arwin,H.  and Ferreira da Silva,A.  and Persson,C.  and Osorio-Guill{\'e}n,J. M.  and Souza de Almeida,J.  and Moyses Araujo,C.  and Veje,E.  and Veissid,N.  and An,C. Y.  and Pepe,I.  and Johansson,B.},
+title = {Electronic and optical properties of lead iodide},
+journal = {Journal of Applied Physics},
+volume = {92},
+number = {12},
+pages = {7219--7224},
+year = {2002},
+doi = {10.1063/1.1523145},
+url = {https://doi.org/10.1063/1.1523145},
+eprint = {https://doi.org/10.1063/1.1523145},
+}
+
+
+
+
+
+@article{Leguy2015ReversibleHydration,
+author = {Leguy, Aur{\'e}lien M. A. and Hu, Yinghong and Campoy-Quiles, Mariano and Alonso, M. Isabel and Weber, Oliver J. and Azarhoosh, Pooya and van Schilfgaarde, Mark and Weller, Mark T. and Bein, Thomas and Nelson, Jenny and Docampo, Pablo and Barnes, Piers R. F.},
+title = {Reversible Hydration of \ch{CH3NH3PbI3} in Films, Single Crystals, and Solar Cells},
+journal = {Chemistry of Materials},
+volume = {27},
+number = {9},
+pages = {3397--3407},
+year = {2015},
+doi = {10.1021/acs.chemmater.5b00660},
+url = {https://doi.org/10.1021/acs.chemmater.5b00660},
+eprint = {https://doi.org/10.1021/acs.chemmater.5b00660},
+}
+
+
+
+
+
+@article{ZhangCahoon2013HorizontalNWs,
+author = {Zhang, Xing and Pinion, Christopher W. and Christesen, Joseph D. and Flynn, Cory J. and Celano, Thomas A. and Cahoon, James F.},
+title = {Horizontal Silicon Nanowires with Radial p-n Junctions: A Platform for Unconventional Solar Cells},
+journal = {The Journal of Physical Chemistry Letters},
+volume = {4},
+number = {12},
+pages = {2002--2009},
+year = {2013},
+doi = {10.1021/jz400533v},
+removednote = {PMID: 26283243},
+url = {https://doi.org/10.1021/jz400533v},
+eprint = {https://doi.org/10.1021/jz400533v},
+}
+
+
+
+
+
+@article{DuanLieber2003NWLasers,
+author = {Duan, Xiangfeng and Huang, Yu and Agarwal, Ritesh and Lieber, Charles M.},
+title = {Single-nanowire electrically driven lasers},
+journal = {Nature},
+year = {2003},
+volume = {421},
+number = {6920},
+pages = {241--245},
+issn = {1476-4687},
+doi = {10.1038/nature01353},
+url = {https://doi.org/10.1038/nature01353},
+}
+
+
+
+
+
+@phdthesis{JoeDissertation,
+author = {Joseph Dale Christesen},
+title = {Synthetically Controlling Doping and Nanoscale Morphology in Vapor-Liquid-Solid Grown Silicon Nanowires to Encode Functionality},
+type = {PhD Dissertation},
+school = {University of North Carolina at Chapel Hill Graduate School},
+address = {Chapel Hill, NC},
+year = {2016},
+doi = {10.17615/76g6-rq73},
+url = {https://cdr.lib.unc.edu/concern/dissertations/8623hz893},
+urldate = {7 Feb 2020},
+}
+
+
+
+
+
