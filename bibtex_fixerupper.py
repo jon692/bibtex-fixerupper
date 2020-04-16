@@ -1153,7 +1153,7 @@ def get_missing_fieldvalues(grouped_data, field):
 
 
 
-def main(docpath,docname,printChangeLog=False):
+def main(docpath,docname,printChangeLog=True):
     os.chdir(docpath)
     doctext = open_txt_file(docname)
 #    print(doctext)
@@ -1235,6 +1235,23 @@ def main(docpath,docname,printChangeLog=False):
 
 
 
+def autorun():
+
+    needFile = True
+    while needFile:
+        fullfilepath = input('Please type in the full file path for the BibTex file you want to clean up (hint: type something like c:\\folder\\file.txt or type q to quit):\n')
+        print(repr(fullfilepath))
+        needFile = False if os.path.isfile(fullfilepath) else True
+        
+        needFile = False if fullfilepath.lower() == 'q' else needFile
+        
+    
+    if fullfilepath.lower() != 'q':
+        docpath, docname = os.path.split(fullfilepath)
+        main(docpath,docname,printChangeLog=True)
+        print('Finished cleaning up!')
+    else:
+        print('Quit Confirmed.')    
 
 
 
@@ -1242,10 +1259,7 @@ def main(docpath,docname,printChangeLog=False):
 if __name__ == '__main__':
     
     
-    docpath = r'Z:\Users\Jon Meyers\PythonScripts\BibTex_fixerupper'
-    docname = 'test.txt'
-    
-    main(docpath,docname,printChangeLog=True)    
+    autorun()
 
 
 
