@@ -1,4 +1,4 @@
-Log of changes to test.txt on 04/16/2020 11:29:41
+Log of changes to test.txt on 04/16/2020 12:18:22
 
 
 There were 44 total non-ascii characters and 0 that were not defined in the dictionary.
@@ -57,7 +57,7 @@ There were 1 fields that had more than one equal sign. As this is a possible sou
 
 
 
-There were 11 "abstract" fields deleted from the records:
+There were 14 "abstract" fields deleted from the records:
 	- LeeSnaith2012MesoSuperstructured
 	- ZhuoZhang2015PorousNWs
 	- ThelanderSamuelson20061Delectronics
@@ -68,7 +68,10 @@ There were 11 "abstract" fields deleted from the records:
 	- Perea2009DopantDistribution
 	- Fornaro2001LeadIodide
 	- Wu2016RecombiantionKinetics
+	- Kempa2012CoaxialNWs
 	- DuanLieber2003NWLasers
+	- ZhuXYZ2016CrystallineLiquids
+	- Guo2017HotCarrierHOIPS
 
 
 
@@ -156,7 +159,7 @@ There were 2 entries with no "Pages" field (this may not matter to you):
 
 
 
-There are 24 unique values in the "journal" field:
+There are 25 unique values in the "journal" field:
 	- ACS Nano
 	- Advanced Energy Materials
 	- Advanced Materials
@@ -177,6 +180,7 @@ There are 24 unique values in the "journal" field:
 	- Nature Nanotechnology
 	- Nature Photonics
 	- Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment
+	- Proceedings of the National Academy of Sciences
 	- Science
 	- Scientific Reports
 	- The Journal of Physical Chemistry B
@@ -184,9 +188,10 @@ There are 24 unique values in the "journal" field:
 
 
 
-There are 57 unique values in the "title" field:
+There are 66 unique values in the "title" field:
 	- Abrupt GaP/GaAs Interfaces in Self-Catalyzed Nanowires
 	- CdxPb1-xS Alloy Nanowires and Heterostructures with Simultaneous Emission in Mid-Infrared and Visible Wavelengths
+	- Coaxial multishell nanowires with high-quality electronic interfaces and tunable optical cavities for ultrathin photovoltaics
 	- Complete composition tunability of InGaN nanowires using a combinatorial approach
 	- Conformal Organohalide Perovskites Enable Lasing on Spherical Resonators
 	- Controlled growth of \ch{CH3NH3PbI3} nanowires in arrays of open nanofluidic channels
@@ -198,6 +203,8 @@ There are 57 unique values in the "title" field:
 	- Doubling Absorption in Nanowire Solar Cells with Dielectric Shell Optical Antennas
 	- Efficient Hybrid Solar Cells Based on Meso-Superstructured Organometal Halide Perovskites
 	- Efficient planar heterojunction perovskite solar cells by vapour deposition
+	- Electron-hole diffusion lengths $>$ \microns{175} in solution-grown \ch{CH3NH3PbI3} single crystals
+	- Electron-Hole Diffusion Lengths Exceeding 1 Micrometer in an Organometal Trihalide Perovskite Absorber
 	- Electronic and optical properties of lead iodide
 	- Epitaxial growth of silicon nanowires using an aluminium catalyst
 	- Growth and Anion Exchange Conversion of CH3NH3PbX3 Nanorod Arrays for Light-Emitting Diodes
@@ -211,9 +218,13 @@ There are 57 unique values in the "title" field:
 	- Influence of Supersaturation and Spontaneous Catalyst Formation on the Growth of PbS Wires: Toward a Unified Understanding of Growth Modes
 	- InP Nanoflag Growth from a Nanowire Template by in Situ Catalyst Manipulation
 	- Interface dynamics and crystal phase switching in GaAs nanowires
+	- Lasing in robust cesium lead halide perovskite nanowires
 	- Lead halide perovskite nanowire lasers with low lasing thresholds and high quality factors
 	- Lead iodide film deposition and characterization
 	- Light-Matter Interactions in Cesium Lead Halide Perovskite Nanowire Lasers
+	- Long-Range Balanced Electron- and Hole-Transport Lengths in Organic-Inorganic \ch{CH3NH3PbI3}
+	- Long-range hot-carrier transport in hybrid perovskites visualized by ultrafast microscopy
+	- Low trap-state density and long carrier diffusion in organolead trihalide perovskite single crystals
 	- Low-temperature solution-processed wavelength-tunable perovskites for lasing
 	- Nanowire Lasers of Formamidinium Lead Halide Perovskites and Their Stabilized Alloys with Improved Stability
 	- Nanowire Perovskite Solar Cell
@@ -227,7 +238,9 @@ There are 57 unique values in the "title" field:
 	- Photon Transport in One-Dimensional Incommensurately Epitaxial CsPbX3 Arrays
 	- Probing the growth mechanism of self-catalytic lead selenide wires
 	- Pump-Probe Microscopy: Spatially Resolved Carrier Dynamics in ZnO Rods and the Influence of Optical Cavity Resonator Modes
+	- Quantum dot-induced phase stabilization of \greekalpha-\ch{CsPbI3} perovskite for high-efficiency photovoltaics
 	- Reversible Hydration of \ch{CH3NH3PbI3} in Films, Single Crystals, and Solar Cells
+	- Screening in crystalline liquids protects energetic carriers in hybrid perovskites
 	- Self-Template-Directed Synthesis of Porous Perovskite Nanowires at Room Temperature for High-Performance Visible-Light Photodetectors
 	- Semiconductor Nanowire Optical Antenna Solar Absorbers
 	- Sensitive X-ray detectors made of methylammonium lead tribromide perovskite single crystals
@@ -264,3 +277,7 @@ There are 0 entries having empty or missing the "year" field:
 
 There are 1 entries having empty or missing the "volume" field:
 	- JoeDissertation
+
+
+
+The output file retained 66 out of 66 original bib entries.

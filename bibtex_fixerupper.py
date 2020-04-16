@@ -42,6 +42,32 @@ def open_txt_file(filename):
 
 
 
+def countEntries(listofstrings):
+    '''
+    Takes a list of strings (in this case the nearly untouched entries)
+    Uses regex to find @___{
+    
+    Outputs number of occurrences.
+    '''
+    
+    numEntries = 0
+    
+    #first let's combine the whole list of strings.
+    backtostring = ''.join(listofstrings)
+    splitbyat = backtostring.split('@')
+    for i in range(len(splitbyat)):
+        try:
+            re.search(r'^([a-zA-Z ]*){',splitbyat[i]).group(1)
+            numEntries += 1
+        except:
+            '' #this must be an extra @ symbol that doesn't mark a new entry
+            
+#    print(numEntries)
+    return numEntries
+
+
+
+
 def get_entry_key_from_linenumber(lines,linenumber):
     '''
     Given the list of strings and a linenumber, this function traces up from the linenumber to find the entry key id
@@ -586,7 +612,7 @@ def group_by_entry(list_in):
         try:
 #            print(list_in[i])
 #            re.search(r'^@[a-zA-Z]*{.*',list_in[i]).group(0) #if you find an @ symbol with an open brace close to to it (separated by the type of entry in only letters), you've found the starter symbol
-            headersearch = re.search(r'^@([a-zA-Z]*){([^=]*),(.*)',list_in[i])
+            headersearch = re.search(r'^@([a-zA-Z ]*){([^=]*),(.*)',list_in[i])
             headersearch.group(0) #if this works, it found a header and will continue
 #            print('I found an @ symbol!')
             foundEntryStarter = True
@@ -660,7 +686,7 @@ def findEntryContent(list_in):
 #    print(repr(entryStr))
     
     try:
-        res = re.search(r'^@([a-zA-Z]*){([^,]*),(.*)}$',entryStr)
+        res = re.search(r'^@([a-zA-Z ]*){([^,]*),(.*)}$',entryStr)
         
         citetype = res.group(1).strip()
 #        print(citetype)
@@ -1157,6 +1183,7 @@ def main(docpath,docname,printChangeLog=True):
     os.chdir(docpath)
     doctext = open_txt_file(docname)
 #    print(doctext)
+    numEntries_orig = countEntries(doctext)
     
     from datetime import datetime
     now = datetime.now()
@@ -1170,6 +1197,8 @@ def main(docpath,docname,printChangeLog=True):
     rev = delete_tabs(rev) #revision 2. delete meaningless tabs on left
     rev = add_extranewlines(rev) #revision 3. Make sure end has some \n markers. Prevents problems later.
     rev = delete_emptylines(rev) #revision 4. get rid of any empty lines
+    
+    
     grouped = group_by_entry(rev) # group by entry
     
     grouped,log_cleanup = cleanUpFields_grouped(grouped) # clean up each entry (line spacing, field spacing, etc.)
@@ -1209,6 +1238,8 @@ def main(docpath,docname,printChangeLog=True):
 
     missing_volume,log_missing = get_missing_fieldvalues(grouped,'volume')
     log_changes.append(log_missing)             
+    
+    log_changes.append('\n\n\nThe output file retained {} out of {} original bib entries.'.format(len(grouped),numEntries_orig))
     
     
 
@@ -1260,6 +1291,9 @@ if __name__ == '__main__':
     
     
     autorun()
+#    os.chdir(r'Z:\Users\Jon Meyers\temp')
+#    doctext = open_txt_file('testbib.txt')
+#    countEntries(doctext)
 
 
 

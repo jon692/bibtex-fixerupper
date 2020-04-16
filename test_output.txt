@@ -159,6 +159,44 @@ eprint = {https://doi.org/10.1021/jz5005285},
 
 
 
+@article{XingSum2013Ambipolar,
+author = {Xing, Guichuan and Mathews, Nripan and Sun, Shuangyong and Lim, Swee Sien and Lam, Yeng Ming and Gr{\"a}tzel, Michael and Mhaisalkar, Subodh and Sum, Tze Chien},
+title = {Long-Range Balanced Electron- and Hole-Transport Lengths in Organic-Inorganic \ch{CH3NH3PbI3}},
+volume = {342},
+number = {6156},
+pages = {344--347},
+year = {2013},
+doi = {10.1126/science.1243167},
+publisher = {American Association for the Advancement of Science},
+issn = {0036-8075},
+url = {https://science.sciencemag.org/content/342/6156/344},
+eprint = {https://science.sciencemag.org/content/342/6156/344.full.pdf},
+journal = {Science},
+}
+
+
+
+
+
+@article{StranksSnaith2013Diffusion1Micron,
+author = {Stranks, Samuel D. and Eperon, Giles E. and Grancini, Giulia and Menelaou, Christopher and Alcocer, Marcelo J. P. and Leijtens, Tomas and Herz, Laura M. and Petrozza, Annamaria and Snaith, Henry J.},
+title = {Electron-Hole Diffusion Lengths Exceeding 1 Micrometer in an Organometal Trihalide Perovskite Absorber},
+volume = {342},
+number = {6156},
+pages = {341--344},
+year = {2013},
+doi = {10.1126/science.1243982},
+publisher = {American Association for the Advancement of Science},
+issn = {0036-8075},
+url = {https://science.sciencemag.org/content/342/6156/341},
+eprint = {https://science.sciencemag.org/content/342/6156/341.full.pdf},
+journal = {Science},
+}
+
+
+
+
+
 @article{ZhuXYZ2015NWlasers,
 author = {Zhu, Haiming and Fu, Yongping and Meng, Fei and Wu, Xiaoxi and Gong, Zizhou and Ding, Qi and Gustafsson, Martin V. and Trinh, M. Tuan and Jin, Song and Zhu, X.-Y.},
 title = {Lead halide perovskite nanowire lasers with low lasing thresholds and high quality factors},
@@ -171,6 +209,44 @@ volume = {14},
 pages = {636--642},
 doi = {10.1038/nmat4271},
 url = {https://doi.org/10.1038/nmat4271},
+}
+
+
+
+
+
+@article{DongHuang2015Diffusion175Micron,
+author = {Dong, Qingfeng and Fang, Yanjun and Shao, Yuchuan and Mulligan, Padhraic and Qiu, Jie and Cao, Lei and Huang, Jinsong},
+title = {Electron-hole diffusion lengths $>$ \microns{175} in solution-grown \ch{CH3NH3PbI3} single crystals},
+volume = {347},
+number = {6225},
+pages = {967--970},
+year = {2015},
+doi = {10.1126/science.aaa5760},
+publisher = {American Association for the Advancement of Science},
+issn = {0036-8075},
+url = {https://science.sciencemag.org/content/347/6225/967},
+eprint = {https://science.sciencemag.org/content/347/6225/967.full.pdf},
+journal = {Science},
+}
+
+
+
+
+
+@article{ShiBakr2015SingleCrystal,
+author = {Shi, Dong and Adinolfi, Valerio and Comin, Riccardo and Yuan, Mingjian and Alarousu, Erkki and Buin, Andrei and Chen, Yin and Hoogland, Sjoerd and Rothenberger, Alexander and Katsiev, Khabiboulakh and Losovyj, Yaroslav and Zhang, Xin and Dowben, Peter A. and Mohammed, Omar F. and Sargent, Edward H. and Bakr, Osman M.},
+title = {Low trap-state density and long carrier diffusion in organolead trihalide perovskite single crystals},
+volume = {347},
+number = {6221},
+pages = {519--522},
+year = {2015},
+doi = {10.1126/science.aaa2725},
+publisher = {American Association for the Advancement of Science},
+issn = {0036-8075},
+url = {https://science.sciencemag.org/content/347/6221/519},
+eprint = {https://science.sciencemag.org/content/347/6221/519.full.pdf},
+journal = {Science},
 }
 
 
@@ -229,6 +305,25 @@ eprint = {https://doi.org/10.1021/ja4109209},
 
 
 
+@article{SwarnkarLuther2016AlphaCsPbI3,
+author = {Swarnkar, Abhishek and Marshall, Ashley R. and Sanehira, Erin M. and Chernomordik, Boris D. and Moore, David T. and Christians, Jeffrey A. and Chakrabarti, Tamoghna and Luther, Joseph M.},
+title = {Quantum dot-induced phase stabilization of \greekalpha-\ch{CsPbI3} perovskite for high-efficiency photovoltaics},
+volume = {354},
+number = {6308},
+pages = {92--95},
+year = {2016},
+doi = {10.1126/science.aag2700},
+publisher = {American Association for the Advancement of Science},
+issn = {0036-8075},
+url = {https://science.sciencemag.org/content/354/6308/92},
+eprint = {https://science.sciencemag.org/content/354/6308/92.full.pdf},
+journal = {Science},
+}
+
+
+
+
+
 @article{AshleyMirkin2016TemplatedNWArray,
 author = {Ashley, Michael J. and O'Brien, Matthew N. and Hedderick, Konrad R. and Mason, Jarad A. and Ross, Michael B. and Mirkin, Chad A.},
 title = {Templated Synthesis of Uniform Perovskite Nanowire Arrays},
@@ -274,6 +369,25 @@ year = {2016},
 doi = {10.1021/acs.nanolett.5b04053},
 url = {https://doi.org/10.1021/acs.nanolett.5b04053},
 eprint = {https://doi.org/10.1021/acs.nanolett.5b04053},
+}
+
+
+
+
+
+@article{EatonYang2016LasingCsPbX3,
+author = {Eaton, Samuel W. and Lai, Minliang and Gibson, Natalie A. and Wong, Andrew B. and Dou, Letian and Ma, Jie and Wang, Lin-Wang and Leone, Stephen R. and Yang, Peidong},
+title = {Lasing in robust cesium lead halide perovskite nanowires},
+volume = {113},
+number = {8},
+pages = {1993--1998},
+year = {2016},
+doi = {10.1073/pnas.1600789113},
+publisher = {National Academy of Sciences},
+issn = {0027-8424},
+url = {https://www.pnas.org/content/113/8/1993},
+eprint = {https://www.pnas.org/content/113/8/1993.full.pdf},
+journal = {Proceedings of the National Academy of Sciences},
 }
 
 
@@ -886,6 +1000,25 @@ eprint = {https://doi.org/10.1021/nl9036627},
 
 
 
+@article{Kempa2012CoaxialNWs,
+author = {Kempa, Thomas J. and Cahoon, James F. and Kim, Sun-Kyung and Day, Robert W. and Bell, David C. and Park, Hong-Gyu and Lieber, Charles M.},
+title = {Coaxial multishell nanowires with high-quality electronic interfaces and tunable optical cavities for ultrathin photovoltaics},
+volume = {109},
+number = {5},
+pages = {1407--1412},
+year = {2012},
+doi = {10.1073/pnas.1120415109},
+publisher = {National Academy of Sciences},
+issn = {0027-8424},
+url = {https://www.pnas.org/content/109/5/1407},
+eprint = {https://www.pnas.org/content/109/5/1407.full.pdf},
+journal = {Proceedings of the National Academy of Sciences},
+}
+
+
+
+
+
 @article{KimLieber2012NWPV,
 author = {Kim, Sun-Kyung and Day, Robert W. and Cahoon, James F. and Kempa, Thomas J. and Song, Kyung-Deok and Park, Hong-Gyu and Lieber, Charles M.},
 title = {Tuning Light Absorption in Core/Shell Silicon Nanowire Photovoltaic Devices through Morphological Design},
@@ -985,6 +1118,44 @@ pages = {241--245},
 issn = {1476-4687},
 doi = {10.1038/nature01353},
 url = {https://doi.org/10.1038/nature01353},
+}
+
+
+
+
+
+@article{ZhuXYZ2016CrystallineLiquids,
+author = {Zhu, Haiming and Miyata, Kiyoshi and Fu, Yongping and Wang, Jue and Joshi, Prakriti P. and Niesner, Daniel and Williams, Kristopher W. and Jin, Song and Zhu, X.-Y.},
+title = {Screening in crystalline liquids protects energetic carriers in hybrid perovskites},
+volume = {353},
+number = {6306},
+pages = {1409--1413},
+year = {2016},
+doi = {10.1126/science.aaf9570},
+publisher = {American Association for the Advancement of Science},
+issn = {0036-8075},
+url = {https://science.sciencemag.org/content/353/6306/1409},
+eprint = {https://science.sciencemag.org/content/353/6306/1409.full.pdf},
+journal = {Science},
+}
+
+
+
+
+
+@article{Guo2017HotCarrierHOIPS,
+author = {Guo, Zhi and Wan, Yan and Yang, Mengjin and Snaider, Jordan and Zhu, Kai and Huang, Libai},
+title = {Long-range hot-carrier transport in hybrid perovskites visualized by ultrafast microscopy},
+volume = {356},
+number = {6333},
+pages = {59--62},
+year = {2017},
+doi = {10.1126/science.aam7744},
+publisher = {American Association for the Advancement of Science},
+issn = {0036-8075},
+url = {https://science.sciencemag.org/content/356/6333/59},
+eprint = {https://science.sciencemag.org/content/356/6333/59.full.pdf},
+journal = {Science},
 }
 
 
